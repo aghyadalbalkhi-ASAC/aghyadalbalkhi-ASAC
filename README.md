@@ -1,7 +1,7 @@
 ###  I'm Aghead Albalkhe -  👋
 
 [![Portfolio](https://img.shields.io/website?label=Aghead-Albalkhe&style=for-the-badge&url=https://aghyadalbalkhi-portfolio.herokuapp.com)](https://aghyadalbalkhi-portfolio.herokuapp.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=facebook&style=for-the-badge)](https://web.facebook.com/aghyadalbalkhi/)
+[![Facebook Follow](https://img.shields.io/twitter/follow/facebook?color=1DA1F2&logo=facebook&style=for-the-badge)](https://web.facebook.com/aghyadalbalkhi/)
 
 ## I'm a Web Developer | Freelancer | Entrepreneur | Technical Mentor| Blockchain Developer !!
 
