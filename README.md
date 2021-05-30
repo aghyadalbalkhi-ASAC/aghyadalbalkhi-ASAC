@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/website?label=Aghead-Albalkhe&style=for-the-badge&url=https://aghyadalbalkhi-portfolio.herokuapp.com)](https://aghyadalbalkhi-portfolio.herokuapp.com/)
 [![Facebook Follow](https://img.shields.io/twitter/follow/aghyadalbalkhi?color=1DA1F2&logo=facebook&style=for-the-badge)](https://web.facebook.com/aghyadalbalkhi/)
 
-## I'm a Web Developer | Freelancer | Entrepreneur | Technical Mentor| Blockchain Developer !!
+## I'm a Web Developer | Freelancer | Entrepreneur | Technical Mentor|  !!
 
 - 🔭 I just launched my first Project: [LinkTalent](https://linktalent.github.io/LinkTalent/)!
 - 💻 I’m currently learning FullStack Web Developer 😍
